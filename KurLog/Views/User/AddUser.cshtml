@@ -1,0 +1,22 @@
+﻿@model KurLog.Models.UserModel
+@{
+    ViewData["Title"] = "AddUser";
+}
+<br />
+<div asp-validation-summary="All" class="text-danger"></div>
+<form asp-action="AddUser" class="form-group" method="post">
+    @Html.LabelFor(x => x.FirstName)
+    @Html.TextBoxFor(x => x.FirstName, new { @class = "form-control" })
+    <!--<span asp-validation-for="FirstName"></span>-->
+    @Html.LabelFor(x => x.LastName)
+    @Html.TextBoxFor(x => x.LastName, new { @class = "form-control" })
+    @Html.LabelFor(x => x.UserName)
+    @Html.TextBoxFor(x => x.UserName, new { @class = "form-control" })
+    @Html.LabelFor(x => x.Password)
+    @Html.PasswordFor(x => x.Password, new { @class = "form-control" })
+    @Html.LabelFor(x => x.Authority)
+    @Html.TextBoxFor(x => x.Authority, new { @class = "form-control" })
+    <br/>
+    <button class="btn btn-info">Save</button>
+</form>
+

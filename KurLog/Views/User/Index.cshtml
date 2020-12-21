@@ -1,0 +1,33 @@
+﻿@model IEnumerable<KurLog.Classes.User>
+@{
+    ViewData["Title"] = "Index";
+}
+<div>
+    <h1>Users</h1>
+    @*@foreach (var dropList in Model.Lists)*@
+
+</div>
+<br />
+<table class="table table-bordered">
+    <tr>
+        <th>First Name</th>
+        <th>Last Name</th>
+        <th>User Name</th>
+        <th>Authority</th>
+        <th>Update</th>
+        <th>Delete</th>
+    </tr>
+    @foreach (var users in Model)
+    {
+        <tr>
+
+            <td>@users.FirstName</td>
+            <td>@users.LastName</td>
+            <td>@users.UserName</td>
+            <td>@users.Authority</td>
+            <td><a href="/User/UpdateUser/@users.Id" class="btn btn-success">Update</a></td>
+            <td><a href="/User/DeleteUser/@users.Id" class="btn btn-danger">Delete</a></td>
+        </tr>
+    }
+</table>
+<a href="/User/AddUser/" class="btn btn-primary">New User</a>

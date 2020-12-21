@@ -1,0 +1,136 @@
+Log Tarihi: 12/20/2020 10:06:21 PM
+Api Güncelleme Tarihi: 2020-12-20 22:00:02
+ABD DOLARI
+   Alış : 7.6898
+   Satış: 7.7036
+EURO
+   Alış : 9.4230
+   Satış: 9.4400
+Gümüş
+   Alış : 6,32
+   Satış: 6,33
+Ons Altın
+   Alış : 1.881,33
+   Satış: 1.881,81
+Gram Altın
+   Alış : 457,47
+   Satış: 461,58
+Log Tarihi: 12/20/2020 10:06:56 PM
+Api Güncelleme Tarihi: 2020-12-20 22:00:02
+ABD DOLARI
+   Alış : 7.6898
+   Satış: 7.7036
+EURO
+   Alış : 9.4230
+   Satış: 9.4400
+Gümüş
+   Alış : 6,32
+   Satış: 6,33
+Ons Altın
+   Alış : 1.881,33
+   Satış: 1.881,81
+Gram Altın
+   Alış : 457,47
+   Satış: 461,58
+Log Tarihi: 12/20/2020 10:07:08 PM
+Api Güncelleme Tarihi: 2020-12-20 22:00:02
+ABD DOLARI
+   Alış : 7.6898
+   Satış: 7.7036
+EURO
+   Alış : 9.4230
+   Satış: 9.4400
+Gümüş
+   Alış : 6,32
+   Satış: 6,33
+Ons Altın
+   Alış : 1.881,33
+   Satış: 1.881,81
+Gram Altın
+   Alış : 457,47
+   Satış: 461,58
+Log Tarihi: 12/20/2020 10:07:19 PM
+Api Güncelleme Tarihi: 2020-12-20 22:00:02
+ABD DOLARI
+   Alış : 7.6898
+   Satış: 7.7036
+EURO
+   Alış : 9.4230
+   Satış: 9.4400
+Gümüş
+   Alış : 6,32
+   Satış: 6,33
+Ons Altın
+   Alış : 1.881,33
+   Satış: 1.881,81
+Gram Altın
+   Alış : 457,47
+   Satış: 461,58
+Log Tarihi: 12/20/2020 10:07:30 PM
+Api Güncelleme Tarihi: 2020-12-20 22:00:02
+ABD DOLARI
+   Alış : 7.6898
+   Satış: 7.7036
+EURO
+   Alış : 9.4230
+   Satış: 9.4400
+Gümüş
+   Alış : 6,32
+   Satış: 6,33
+Ons Altın
+   Alış : 1.881,33
+   Satış: 1.881,81
+Gram Altın
+   Alış : 457,47
+   Satış: 461,58
+Log Tarihi: 12/20/2020 10:07:40 PM
+Api Güncelleme Tarihi: 2020-12-20 22:00:02
+ABD DOLARI
+   Alış : 7.6898
+   Satış: 7.7036
+EURO
+   Alış : 9.4230
+   Satış: 9.4400
+Gümüş
+   Alış : 6,32
+   Satış: 6,33
+Ons Altın
+   Alış : 1.881,33
+   Satış: 1.881,81
+Gram Altın
+   Alış : 457,47
+   Satış: 461,58
+Log Tarihi: 12/20/2020 10:07:50 PM
+Api Güncelleme Tarihi: 2020-12-20 22:00:02
+ABD DOLARI
+   Alış : 7.6898
+   Satış: 7.7036
+EURO
+   Alış : 9.4230
+   Satış: 9.4400
+Gümüş
+   Alış : 6,32
+   Satış: 6,33
+Ons Altın
+   Alış : 1.881,33
+   Satış: 1.881,81
+Gram Altın
+   Alış : 457,47
+   Satış: 461,58
+Log Tarihi: 12/20/2020 10:08:01 PM
+Api Güncelleme Tarihi: 2020-12-20 22:00:02
+ABD DOLARI
+   Alış : 7.6898
+   Satış: 7.7036
+EURO
+   Alış : 9.4230
+   Satış: 9.4400
+Gümüş
+   Alış : 6,32
+   Satış: 6,33
+Ons Altın
+   Alış : 1.881,33
+   Satış: 1.881,81
+Gram Altın
+   Alış : 457,47
+   Satış: 461,58

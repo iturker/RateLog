@@ -1,0 +1,20 @@
+[
+  {
+    "Id": "ae6f0cb0-a2d4-4e44-8d98-bc333dea31b0",
+    "FirstName": "İdris",
+    "LastName": "TÜRKER",
+    "UserName": "iturker",
+    "Password": "YS4xMjM0NTZhZGVmQEBrZnhjYnZA",
+    "Authority": "Admin",
+    "IsDelete": false
+  },
+  {
+    "Id": "04a160c2-73f7-4cd0-a110-2b4343adab3b",
+    "FirstName": "First Name",
+    "LastName": "Last Name",
+    "UserName": "user",
+    "Password": "YS4xMjM0NTZhZGVmQEBrZnhjYnZA",
+    "Authority": "Employee",
+    "IsDelete": false
+  }
+]

@@ -1,0 +1,39 @@
+﻿@model IEnumerable<KurLog.Classes.RateLog>
+@{
+    ViewData["Title"] = "Index";
+}
+<meta http-equiv="refresh" content="10">
+<div>
+    <h1>Rate Logs</h1>
+</div>
+<br />
+<table class="table table-bordered">
+    <tr>
+        <th>Log Date</th>
+        <th>Api Update Date</th>
+        <th colspan="2">Dollar(Buying/Sales)</th>
+        <!--<th>Dollar Sales</th>-->
+        <th colspan="2">Euro(Buying/Sales)</th>
+        <!--<th>Euro Sales</th>-->
+        <th colspan="2">Silver(Buying/Sales)</th>
+        <!--<th>Silver Sales</th>-->
+        <th colspan="2">Gold(Buying/Sales)</th>
+        <!--<th>Gold Sales</th>-->
+    </tr>
+    @foreach (var rateLog in Model)
+    {
+        <tr>
+
+            <td>@rateLog.LogDate</td>
+            <td>@rateLog.ApiUpdateDate</td>
+            <td>@rateLog.DollarBuying</td>
+            <td>@rateLog.DollarSales</td>
+            <td>@rateLog.EuroBuying</td>
+            <td>@rateLog.EuroSales</td>
+            <td>@rateLog.SilverBuying</td>
+            <td>@rateLog.SilverSales</td>
+            <td>@rateLog.GoldBuying</td>
+            <td>@rateLog.GoldSales</td>
+        </tr>
+    }
+</table>
